@@ -44,9 +44,19 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Are you sure?",
+    "Really sure?",
+    "Are you positive?",
     "Pookie please",
-    "Don't do this to me :(",
-    "You're breaking my heart",
+    "Just think about it",
+    "If you say no,I'll be very sad",
+    "I'll be very sad",
+    "I'll be very very very sad",
+    "I'll be very very very very sad",
+    "Ok fine,I'll stop asking....",
+    "Just kidding, PLEASE SAY YES",
+    "I'll be very very very very very sad",
+    "Don't do this to me:(",
+    "You're breaking my heart;(",
     "I'm gonna cry...",
   ];
 
