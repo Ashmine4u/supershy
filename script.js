@@ -45,8 +45,6 @@ function generateMessage(noCount) {
     "No",
     "Are you sure?",
     "Really sure?",
-    "Are you positive?",
-    "Pookie please",
     "Just think about it",
     "If you say no,I'll be very sad",
     "Ok fine,I'll stop asking....",
