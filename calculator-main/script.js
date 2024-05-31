@@ -32,7 +32,7 @@ function symbol(value) {
             result = (parseFloat(result) / 100).toString();
             break;
         case '=':
-            result = 'Imissyou';
+            result = ' ';
             total = '0';
             operator = true;
             break;
